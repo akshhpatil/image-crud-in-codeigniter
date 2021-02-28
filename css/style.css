@@ -1,1 +1,62 @@
 
+h1{
+
+	text-align: center;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	letter-spacing:3px;
+	color:black;
+
+}
+
+
+label{
+
+	font-family: sans-serif;
+
+     }
+
+body{
+	background:linear-gradient(to top,green,white); 
+}
+
+
+
+
+input[type="submit"]{
+	border:0:
+	margin-top:15px;
+	padding: 10px;
+	width:100%;
+	background:#fece0c;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor:pointer;
+
+}
+
+.container{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+	max-width: 350px;
+	width: 100%;
+	background:lightblue;
+	opacity: 0.9;
+	padding:25px;
+	border-radius: 5px;
+	box-shadow: 4px 4px 2px rgba(254,236,164,1);
+	width: 400px;
+
+}
+
+
+input[type="text"],[type="email"],[type="password"],[type="file"][type="number"]{
+
+	padding: 10px;
+	border-radius: 10px;
+}
