@@ -1,29 +1,20 @@
-
 h1{
-
 	text-align: center;
 	margin-bottom: 20px;
 	text-transform: uppercase;
 	letter-spacing:3px;
 	color:black;
-
-}
-
-
+   }
 label{
-
 	font-family: sans-serif;
-
      }
 
 body{
 	background:linear-gradient(to top,green,white); 
-}
+    }
 
-
-
-
-input[type="submit"]{
+input[type="submit"]
+   {
 	border:0:
 	margin-top:15px;
 	padding: 10px;
@@ -36,7 +27,7 @@ input[type="submit"]{
     border-radius: 25px;
     cursor:pointer;
 
-}
+     }
 
 .container{
 	position: absolute;
@@ -55,8 +46,9 @@ input[type="submit"]{
 }
 
 
-input[type="text"],[type="email"],[type="password"],[type="file"][type="number"]{
+   input[type="text"],[type="email"],[type="password"],[type="file"][type="number"]
+   {
 
 	padding: 10px;
 	border-radius: 10px;
-}
+   }
