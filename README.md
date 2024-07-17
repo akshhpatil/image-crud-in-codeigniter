@@ -1,4 +1,4 @@
-# image CRUD in Codeigniter
+# Image CRUD in Codeigniter
 
 
 database file : demo.sql
